@@ -1,5 +1,2 @@
-Provides arch linux based images with java installed.
+An arch linux build which includes openjdk java 7.
 
-Branches:
-7 - java 7 dockerfile
-8 - java 8 dockerfile
